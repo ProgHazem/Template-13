@@ -1,0 +1,29 @@
+******************************************************************
+========== Simple Site for UNIFOX==============
+
+Template 13
+
+==> use HTML5.
+
+==> use CSS3.
+
+==> use Bootstrap
+
+==> use Fontawesome
+
+==> use Jquery
+
+==> use Jquery Nicescroll
+
+==> use owl.carouse
+
+==> use Magnific-popup
+
+==> use Slick
+
+==> use Google Fonts
+
+
+                                               thanks for reading
+                                                      Hazem
+*******************************************************************
